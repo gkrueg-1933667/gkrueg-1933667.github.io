@@ -53,7 +53,16 @@ a{
 u1{
     list-style-type:none;
     padding:0px;
-
+}
+#Content{
+    border: solid 8px black;
+    width 700px;
+    text-align: center;
+    padding 15px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    background-color: #8E41D5;
 }
 
 #Footer{
@@ -62,7 +71,7 @@ u1{
     background-color: #8E41D5;
 }
 
-.titles{}
+.tiles{}
 
 #bow{
     color:#ffbc00;
